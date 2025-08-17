@@ -41,7 +41,7 @@ The project combines **statistical forecasting models (SARIMAX, Prophet)** with 
 - Testing: last 12 months for evaluation  
 - Metrics: **RMSE, MSE**  
 
-📊 **Model Performance (replace with your real results):**
+📊 **Model Performance :**
 
 | Category | SARIMAX MAE | SARIMAX RMSE | Prophet MAE | Prophet RMSE | Best Model |
 | -------- | ----------- | ------------ | ----------- | ------------ | ---------- |
